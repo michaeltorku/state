@@ -8,6 +8,10 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "extra":{
+      "API_ENDPOINT":"https://c5523fb1-b423-4af2-9e10-93852f29368a-eu-west-1.apps.astra.datastax.com",
+      "TOKEN":"AstraCS:xacclxbuUFUJJHqIxRWPbTIJ:2f2d7a3f0fe802acb39ffdda57075a37b6f719747f4cbf2c6c690fc80405ffaa"
+    },
     "ios": {
       "supportsTablet": true
     },
